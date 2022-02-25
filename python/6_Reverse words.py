@@ -6,6 +6,7 @@ print("START!!\n...")
 
 
 def implementation(words):
+    # return " ".join(words.split()[::-1])
     words = words.split()
     words.reverse()
     return " ".join(words)

@@ -13,7 +13,7 @@ def implementation(text):
 
 texts = [
     ("homework", "h"),
-    ("This is an implementation", "h"),
+    ("111 This is an implementation", "h"),
     ("simplest", "i"),
     ("oscar", "o"),
     ("Costa Rica", "o"),
